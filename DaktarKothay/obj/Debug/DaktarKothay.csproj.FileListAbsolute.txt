@@ -1,0 +1,60 @@
+D:\3.2 materials\SD\HTML\DaktarKothay\DaktarKothay\bin\DaktarKothay.dll.config
+D:\3.2 materials\SD\HTML\DaktarKothay\DaktarKothay\bin\DaktarKothay.dll
+D:\3.2 materials\SD\HTML\DaktarKothay\DaktarKothay\bin\DaktarKothay.pdb
+D:\3.2 materials\SD\HTML\DaktarKothay\DaktarKothay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\3.2 materials\SD\HTML\DaktarKothay\DaktarKothay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\3.2 materials\SD\HTML\DaktarKothay\DaktarKothay\obj\Debug\DaktarKothay.csprojResolveAssemblyReference.cache
+D:\3.2 materials\SD\HTML\DaktarKothay\DaktarKothay\obj\Debug\DaktarKothay.csproj.CoreCompileInputs.cache
+D:\3.2 materials\SD\HTML\DaktarKothay\DaktarKothay\obj\Debug\DaktarKothay.dll
+D:\3.2 materials\SD\HTML\DaktarKothay\DaktarKothay\obj\Debug\DaktarKothay.pdb
+E:\3.2\DaktarKothayasp\DaktarKothay\DaktarKothay\bin\DaktarKothay.dll.config
+E:\3.2\DaktarKothayasp\DaktarKothay\DaktarKothay\bin\DaktarKothay.dll
+E:\3.2\DaktarKothayasp\DaktarKothay\DaktarKothay\bin\DaktarKothay.pdb
+E:\3.2\DaktarKothayasp\DaktarKothay\DaktarKothay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\3.2\DaktarKothayasp\DaktarKothay\DaktarKothay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\3.2\DaktarKothayasp\DaktarKothay\DaktarKothay\obj\Debug\DaktarKothay.csprojResolveAssemblyReference.cache
+E:\3.2\DaktarKothayasp\DaktarKothay\DaktarKothay\obj\Debug\DaktarKothay.csproj.CoreCompileInputs.cache
+E:\3.2\DaktarKothayasp\DaktarKothay\DaktarKothay\obj\Debug\DaktarKothay.dll
+E:\3.2\DaktarKothayasp\DaktarKothay\DaktarKothay\obj\Debug\DaktarKothay.pdb
+D:\3.2 materials\SD\DaktarKothay\DaktarKothay\bin\DaktarKothay.dll.config
+D:\3.2 materials\SD\DaktarKothay\DaktarKothay\bin\DaktarKothay.dll
+D:\3.2 materials\SD\DaktarKothay\DaktarKothay\bin\DaktarKothay.pdb
+D:\3.2 materials\SD\DaktarKothay\DaktarKothay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\3.2 materials\SD\DaktarKothay\DaktarKothay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\3.2 materials\SD\DaktarKothay\DaktarKothay\obj\Debug\DaktarKothay.csprojResolveAssemblyReference.cache
+D:\3.2 materials\SD\DaktarKothay\DaktarKothay\obj\Debug\DaktarKothay.csproj.CoreCompileInputs.cache
+D:\3.2 materials\SD\DaktarKothay\DaktarKothay\obj\Debug\DaktarKothay.dll
+D:\3.2 materials\SD\DaktarKothay\DaktarKothay\obj\Debug\DaktarKothay.pdb
+D:\3.2 materials\SD\DaktarKothay\DaktarKothay\bin\MySql.Data.DLL
+E:\3.2\DaktarKothay0.3\DaktarKothay\DaktarKothay\bin\DaktarKothay.dll.config
+E:\3.2\DaktarKothay0.3\DaktarKothay\DaktarKothay\bin\DaktarKothay.dll
+E:\3.2\DaktarKothay0.3\DaktarKothay\DaktarKothay\bin\DaktarKothay.pdb
+E:\3.2\DaktarKothay0.3\DaktarKothay\DaktarKothay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\3.2\DaktarKothay0.3\DaktarKothay\DaktarKothay\bin\MySql.Data.dll
+E:\3.2\DaktarKothay0.3\DaktarKothay\DaktarKothay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\3.2\DaktarKothay0.3\DaktarKothay\DaktarKothay\bin\MySql.Data.xml
+E:\3.2\DaktarKothay0.3\DaktarKothay\DaktarKothay\obj\Debug\DaktarKothay.csprojResolveAssemblyReference.cache
+E:\3.2\DaktarKothay0.3\DaktarKothay\DaktarKothay\obj\Debug\DaktarKothay.csproj.CoreCompileInputs.cache
+E:\3.2\DaktarKothay0.3\DaktarKothay\DaktarKothay\obj\Debug\DaktarKothay.dll
+E:\3.2\DaktarKothay0.3\DaktarKothay\DaktarKothay\obj\Debug\DaktarKothay.pdb
+G:\DaktarKothay0.3\DaktarKothay\DaktarKothay\bin\DaktarKothay.dll.config
+G:\DaktarKothay0.3\DaktarKothay\DaktarKothay\bin\DaktarKothay.dll
+G:\DaktarKothay0.3\DaktarKothay\DaktarKothay\bin\DaktarKothay.pdb
+G:\DaktarKothay0.3\DaktarKothay\DaktarKothay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\DaktarKothay0.3\DaktarKothay\DaktarKothay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\DaktarKothay0.3\DaktarKothay\DaktarKothay\bin\MySql.Data.xml
+G:\DaktarKothay0.3\DaktarKothay\DaktarKothay\obj\Debug\DaktarKothay.csprojResolveAssemblyReference.cache
+G:\DaktarKothay0.3\DaktarKothay\DaktarKothay\obj\Debug\DaktarKothay.csproj.CoreCompileInputs.cache
+G:\DaktarKothay0.3\DaktarKothay\DaktarKothay\obj\Debug\DaktarKothay.dll
+G:\DaktarKothay0.3\DaktarKothay\DaktarKothay\obj\Debug\DaktarKothay.pdb
+E:\DaktarKothay0.3\DaktarKothay\DaktarKothay\bin\DaktarKothay.dll.config
+E:\DaktarKothay0.3\DaktarKothay\DaktarKothay\bin\DaktarKothay.dll
+E:\DaktarKothay0.3\DaktarKothay\DaktarKothay\bin\DaktarKothay.pdb
+E:\DaktarKothay0.3\DaktarKothay\DaktarKothay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DaktarKothay0.3\DaktarKothay\DaktarKothay\bin\MySql.Data.dll
+E:\DaktarKothay0.3\DaktarKothay\DaktarKothay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DaktarKothay0.3\DaktarKothay\DaktarKothay\bin\MySql.Data.xml
+E:\DaktarKothay0.3\DaktarKothay\DaktarKothay\obj\Debug\DaktarKothay.csprojResolveAssemblyReference.cache
+E:\DaktarKothay0.3\DaktarKothay\DaktarKothay\obj\Debug\DaktarKothay.csproj.CoreCompileInputs.cache
+E:\DaktarKothay0.3\DaktarKothay\DaktarKothay\obj\Debug\DaktarKothay.dll
+E:\DaktarKothay0.3\DaktarKothay\DaktarKothay\obj\Debug\DaktarKothay.pdb
